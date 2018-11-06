@@ -1,0 +1,74 @@
+<html>
+<head>
+<meta charset="utf-8">
+<title>Daddy Builders</title>
+<link rel="shortcut icon" type="image/png" href="favicon.ico"/>
+<link rel="stylesheet" href= "main.css">
+<link rel="stylesheet" href= "styles.cssf">
+
+
+</head>
+
+<body>
+	<nav>
+	<ul>
+		<li><a href="home.html">Homefield</a></li>
+		<li><a href="first site.ht">Stats</a></li>
+		<li><a href="first site.ht">Wins</a>
+			<ul id="nav">
+				<li><a href="give.html">Gerson's Testimony</a></li>
+				<li><a href="give.html">Roland's Testimony</a></li>
+				<li><a href="give.html">Elliot's Testimony</a></li>
+			</ul>
+		</li>
+		<li><a href="give.html">Cheerleaders</a></li>
+		<li><a href="give.html">The Opponent</a></li>
+		<li><a href="give.html">Special Team</a></li>
+		<li><a href="give.html">Penalties</a></li>
+		
+	</ul>
+	</nav>
+	
+	<img src="logo.png" alt="logo">
+
+	<p>
+		Did you know... 24 Million children live in fatherless 
+		homes?? 
+	</p>
+		
+	<p>	
+		Absent fathers is a growing crisis across America. Children with involved, 
+		loving fathers are significantly more likely to do well in school, have healthy 
+		self- esteem and avoid high risk behaviors including drug use, truancy and 
+		criminal activity. 
+	</p>
+	<p>
+		Daddy Builders Network is designed to give Daddies hope, encouragement, 
+		information, game plan strategies and ideas to equip them to become and 
+		remain that awesome active Daddy the lives of his children, forever. Please 
+		note that father's rights laws vary state to state and we don't give legal advice 
+		[ust ideas, please check in your state for their laws. 
+	</p>
+	<p>
+		DADDYHOOD... 
+		Get in the Game... Stay in the Game!!!!
+	</p>
+
+</body>
+
+</html>
+
+1 877-837-DADS (3237) 
+
+
+info@daddybuilders.org - 
+rolandcox@daddybuilders.org - february 24 
+michellecox@daddybuilders.org -  october 5th
+
+1 free name : as long as we are in the domain
+
+
+
+
+
+
